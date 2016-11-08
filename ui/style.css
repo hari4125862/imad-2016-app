@@ -19,6 +19,9 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
 
 
