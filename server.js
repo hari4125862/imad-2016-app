@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/hari', function (req, res) {
-  res.send('hi lets start');
+ res.sendFile(path.join(__dirname, 'ui', 'hari.html'));
   
 });
 
