@@ -1,41 +1,22 @@
-
-body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
-	margin: 0; padding: 0; border: 0;
-}
-
 body {
-	font: 14px/24px Helvetica, Sans-Serif; color: #7e7e7e;
-	background: grey;
+	background-color: #CCC;
+	margin:80px 80px 100px 100px;
 }
-
-a {
-	color: #9f3a3a; text-decoration: none;
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:20px;
 }
-	a:hover {
-		color: #792323;
-	}
-	
-.container {
-	width: 960px; margin: 0 auto;
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:8px;
 }
-
-
-.header {
-	overflow: hidden;
-}
-	.header.logo {
-		margin: 20px 0 10px 15px; float: left;
-	}
-	
-	.header .subscribe {
-		list-style: none; float: right; margin: 35px 30px 0 0;
-		font-size: 16px;
-	}
-		.header .subscribe li.rss {
-			background: url(images/rss-icon.png) left no-repeat;
-			padding: 5px 0 5px 40px; margin: 0 0 10px 0;
-		}
-		.header .subscribe li.twitter {
-			background: url(images/twitter-icon.png) left no-repeat;
-			padding: 5px 0 5px 40px;
-		}
