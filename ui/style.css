@@ -33,6 +33,7 @@ body {
 	color:blue;
 	background:red;
 	padding:20px;
+	font-family:bold;
 }
 .fixedfooter {
 	position:fixed;
