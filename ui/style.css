@@ -1,8 +1,31 @@
+
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin-top: 75px;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
 body {
 	background-color: #CCC;
 	margin:80px 80px 100px 100px;
 }
-div#fixedheader {
+.fixedheader {
 	position:fixed;
 	top:0px;
 	left:0px;
@@ -11,7 +34,7 @@ div#fixedheader {
 	background:#333;
 	padding:20px;
 }
-div#fixedfooter {
+.fixedfooter {
 	position:fixed;
 	bottom:0px;
 	left:0px;
