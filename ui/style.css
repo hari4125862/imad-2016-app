@@ -24,7 +24,10 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.tableallign
+{
+    padding:50px;
+}
 .fixedheader {
 	position:fixed;
 	top:1px;
