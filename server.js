@@ -25,10 +25,6 @@ app.get('/', function (req, res) {
   
 });
 
-app.get('/hari', function (req, res) {
- res.sendFile(path.join(__dirname, 'ui', 'hari.html'));
-  
-});
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'app.html'));
