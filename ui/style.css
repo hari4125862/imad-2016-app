@@ -28,6 +28,16 @@ body {
     height: 200px;
 }
 
+
+.table1{
+
+background-color:black;
+color:white;
+border-color:red;
+border-width:3px;
+border-style:dashed;
+margin-bottom:2px;
+}
 .fixedheader {
 	position:fixed;
 	top:1px;
