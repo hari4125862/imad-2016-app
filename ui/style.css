@@ -52,8 +52,7 @@ padding-top:10px;
 }
 .fixedfooter {
 	position:fixed;
-	bottom:1px;
-	left:1px;
+	
 	width:100%;
 	color:grey;
 	background:black;
