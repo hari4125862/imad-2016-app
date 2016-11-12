@@ -1,6 +1,9 @@
 
-body{background-image:url("http://2.bp.blogspot.com/-dPKDVOFyNbg/VSJa68BEYkI/AAAAAAAABPQ/DePFf7Mbe1I/s1600/SET-Campus.jpg");
-    background-repeat: no-repeat;
+body{
     background-color:#7FFFD4	;
 
+}
+.image
+    {background-image:url("http://2.bp.blogspot.com/-dPKDVOFyNbg/VSJa68BEYkI/AAAAAAAABPQ/DePFf7Mbe1I/s1600/SET-Campus.jpg");
+    background-repeat: no-repeat;
 }
