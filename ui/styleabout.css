@@ -4,6 +4,7 @@ body{
 
 }
 .image
-    {background-image:url("http://2.bp.blogspot.com/-dPKDVOFyNbg/VSJa68BEYkI/AAAAAAAABPQ/DePFf7Mbe1I/s1600/SET-Campus.jpg");
+    {margin-left: auto;
+    margin-right: auto;
     background-repeat: no-repeat;
 }
