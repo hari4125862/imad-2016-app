@@ -9,3 +9,13 @@ body{
     background-repeat: no-repeat;
     padding-right:1px;
 }
+.fixedfooter {
+	position:fixed;
+	
+	width:100%;
+	color:grey;
+	background:black;
+	padding:1px;
+	padding-right:1px;
+	margin-right:1px;
+}
