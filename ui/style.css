@@ -27,18 +27,7 @@ body {
 .img-medium {
     height: 200px;
 }
-.tableallign
-{
-    background-color:black;
-color:white;
-border-color:red;
-border-width:3px;
-border-style:dashed;
-margin-bottom:2px;
-    padding:1px;
-     background-color: brown;
-    
-}
+
 .fixedheader {
 	position:fixed;
 	top:1px;
