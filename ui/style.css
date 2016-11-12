@@ -28,6 +28,12 @@ body {
 }
 .tableallign
 {
+    background-color:black;
+color:white;
+border-color:red;
+border-width:3px;
+border-style:dashed;
+margin-bottom:2px;
     padding:1px;
      background-color: brown;
     
