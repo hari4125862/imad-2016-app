@@ -8,6 +8,8 @@ body{
     margin-right: auto;
     background-repeat: no-repeat;
     padding-right:1px;
+    opacity: 0.5;
+    filter: alpha(opacity=50)
 }
 .fixedfooter {
 	position:fixed;
