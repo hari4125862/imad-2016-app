@@ -158,8 +158,8 @@ button {
 }
 
 img.avatar {
-    width: 40%;
-    border-radius: 50%;
+    width: 200%;
+    border-radius: 30%;
 }
 
 .container {
